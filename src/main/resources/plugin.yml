@@ -1,0 +1,16 @@
+name: EnderCast
+main: com.example.endercast.EnderCast
+version: 1.1.0
+api-version: 1.21
+commands:
+  endercast:
+    description: Main command for EnderCast plugin
+    usage: /<command>
+    aliases: [broadcast, ec, bc]
+    permission: endercast.use
+    permission-message: "You do not have permission to use this command"
+
+permissions:
+  endercast.use:
+    description: "Allows use of the EnderCast command"
+    default: op
