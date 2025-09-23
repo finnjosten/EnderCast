@@ -1,0 +1,34 @@
+EnderCast Plugin License (2025)
+===============================
+
+Copyright (c) 2025 Finn Josten. All rights reserved.
+
+This license governs the use of the EnderCast Minecraft plugin.
+
+-------------------------------------------------------------
+PERMITTED USAGE
+-------------------------------------------------------------
+You are allowed to:
+1. Install and run this plugin on your personal or public Minecraft servers.
+2. Modify the plugin for personal use only.
+
+-------------------------------------------------------------
+RESTRICTIONS
+-------------------------------------------------------------
+You are NOT allowed to:
+1. Redistribute, re-upload, or share this plugin in any form.
+2. Sell, license, or commercially exploit this plugin.
+3. Claim this plugin, in whole or in part, as your own original work.
+
+-------------------------------------------------------------
+DISCLAIMER
+-------------------------------------------------------------
+This plugin is provided "as-is" without warranty of any kind.
+The author is not responsible for any damage, data loss,
+or issues caused by its use.
+
+-------------------------------------------------------------
+CONTACT
+-------------------------------------------------------------
+For permissions beyond personal use, contact:
+dev@frjosten.nl
