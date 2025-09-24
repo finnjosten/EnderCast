@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.example.endercast</groupId>
   <artifactId>EnderCast</artifactId>
-  <version>0.4.3</version>
+  <version>1.2.0</version>
   <build>
     <plugins>
       <plugin>
@@ -23,16 +23,16 @@
             <goals>
               <goal>shade</goal>
             </goals>
-            <configuration>
-              <relocations>
-                <relocation>
-                  <pattern>org.json</pattern>
-                  <shadedPattern>shaded.org.json</shadedPattern>
-                </relocation>
-              </relocations>
-            </configuration>
           </execution>
         </executions>
+        <configuration>
+          <relocations>
+            <relocation>
+              <pattern>org.bstats</pattern>
+              <shadedPattern>shaded.org.bstats</shadedPattern>
+            </relocation>
+          </relocations>
+        </configuration>
       </plugin>
     </plugins>
   </build>
